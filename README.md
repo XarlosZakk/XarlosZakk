@@ -33,7 +33,7 @@
 <p align="center">
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,javascript,java,typescript,py" />
+    <img src="https://skillicons.dev/icons?i=css,html,javascript,dart,flutter,java,typescript,py" />
   </a>
 </p>
   
@@ -43,7 +43,7 @@
 <p align="center">
     <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ruby,tailwind" />
+    <img src="https://skillicons.dev/icons?i=react,angular,vue,tailwind,bootstrap" />
   </a>
 </p>
 </p>
@@ -51,7 +51,7 @@
 <h3 align="center">Backend</h3>
 <p align="center">
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,py,js" />
+    <img src="https://skillicons.dev/icons?i=nodejs,py,typescript,js" />
   </a>
 </p>
 
@@ -59,21 +59,21 @@
 <h3 align="center">Database</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,mongodb,sqlite" />
   </a>
 </p>
 
-<h3 align="center">Version Control & CI/CD</h3>
+<h3 align="center">Version Control & Dokker & Terminal</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,powershell" />
   </a>
 </p>
 
 <h3 align="center">Preferred IDEs  & Tools :</h3>
 <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,windows,pycharm,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=vscode,windows,pycharm,npm,androidstudio,idea,visualstudio,figma" />
   </a>
 </p>
 
@@ -105,7 +105,7 @@
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=XarlosZakk&theme=juicyfresh&no-bg=true" />
 
-
+----
 
 <h3 align="center">Reach me</h3>
 
@@ -117,21 +117,16 @@
 
 ----
 
+
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=XarlosZakk&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/XarlosZakk)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=XarlosZakk&theme=material-palenight)](https://github.com/XarlosZakk)
 </div>
-
 ----
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
-
-------
-Credit: [Elanza-48](https://github.com/Elanza-48)
-
-Last Edited on: 09/09/2021
